@@ -1,6 +1,6 @@
 website - https://dev-uday.cf
 
-youtube - https://youtube.com/codingwithuday
+**YOUTUBE TUT - https://www.youtube.com/watch?v=yN1mPVJ9bco**
 
 ***PROXYZ - PROXY GENERATOR***
 
