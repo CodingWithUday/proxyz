@@ -1,0 +1,2 @@
+# proxyz
+FREE FAST PROXIES!
