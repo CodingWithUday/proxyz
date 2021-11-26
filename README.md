@@ -1,4 +1,5 @@
 website - https://dev-uday.cf
+
 youtube - https://youtube.com/codingwithuday
 
 ***PROXYZ - PROXY GENERATOR***
@@ -14,4 +15,4 @@ HOW TO USE:
    `PROXIES WILL BE SAVED IN THE FILE NAME(NOTE - THE FILE NAMES WILL BE THE SAME AS THE NAME OF PROXY TYPE)`
 
 
-EXE VERSION - 
+EXE VERSION - https://www.mediafire.com/file/7lkum5vk50h6pks/proxyz.zip/file
