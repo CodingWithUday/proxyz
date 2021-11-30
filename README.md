@@ -8,9 +8,9 @@ website - https://dev-uday.cf
 
 HOW TO USE:
 
-   `RUN MAIN.PY`
+   `RUN proxyz.py`
    
-   `CHOOSE WHICH TYPE OF PROXY YOU WANT TO GENERATE`
+   `CHOOSE WHICH TYPE OF PROXY YOU WANT TO GENERATE (http proxies are generated the fastest till now)`
    
    `PROXIES WILL BE SAVED IN THE FILE NAME(NOTE - THE FILE NAMES WILL BE THE SAME AS THE NAME OF PROXY TYPE)`
 
