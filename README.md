@@ -1,4 +1,4 @@
-website - https://dev-uday.cf
+website - https://codeuday.rf.gd
 
 **YOUTUBE TUT - https://www.youtube.com/watch?v=yN1mPVJ9bco**
 
