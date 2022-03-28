@@ -4,7 +4,7 @@ website - https://codeuday.rf.gd
 
 ***PROXYZ - PROXY GENERATOR***
 
-![thumbnail](https://user-images.githubusercontent.com/70849646/143603442-a19c4854-5bc0-4f2c-a934-7b5a10c01e70.jpg)
+![thumbnail](blob:https://web.telegram.org/354d711d-dfa0-468b-9b90-c4cb9406fbf7)
 
 HOW TO USE:
 
