@@ -4,6 +4,8 @@ import os
 import time
 import random
 
+hehe = "SUBSCRIBE TO CODING WITH UDAY"
+
 init(convert=True)
 
 os.system('cls' if os.name == 'nt' else 'clear')
@@ -73,7 +75,7 @@ def getsocks5():
 
 
 def main():
-    print(Fore.LIGHTGREEN_EX + '''
+    print(Fore.LIGHTRED_EX + '''
  _______   _______    ______   __    __  __      __  ________ 
 |       \ |       \  /      \ |  \  |  \|  \    /  \|        \ 
 | $$$$$$$\| $$$$$$$\|  $$$$$$\| $$  | $$ \$$\  /  $$ \$$$$$$$$
@@ -82,13 +84,13 @@ def main():
 | $$$$$$$ | $$$$$$$\| $$  | $$ /  $$$$\     \$$$$     /  $$   
 | $$      | $$  | $$| $$__/ $$|  $$ \$$\    | $$     /  $$___ 
 | $$      | $$  | $$ \$$    $$| $$  | $$    | $$    |  $$    \ 
- \$$       \$$   \$$  \$$$$$$  \$$   \$$     \$$     \$$$$$$$$
+ \$$       \$$   \$$  \$$$$$$  \$$   \$$     \$$     \$$$$$$$$ - V2
 
               Note - Use At Your Own Risk. The Developer Of This Software Will Not 
               Be Hold Liable For Any Bad Activities You Do!
                                                               
                  MADE BY - Coding With Uday
-                 Website - https://dev-uday.cf
+                 Website - https://codeuday.rf.gd
                  YouTube - https://youtube.com/codingwithuday
                  Github  - https://github.com/CodingWithUday     
 ''')
@@ -101,17 +103,17 @@ def main():
     a = input(Fore.LIGHTWHITE_EX + "Choose Type of Proxy : ")
     if(a == "1"):
         for i in range(lines):
-            print(Fore.LIGHTWHITE_EX + "[ " + Fore.LIGHTGREEN_EX + "Success -> HTTPS" + Fore.LIGHTWHITE_EX + " ] " + Fore.LIGHTGREEN_EX + https[i])
+            print(Fore.LIGHTWHITE_EX + "[ " + Fore.LIGHTRED_EX + "Success -> HTTPS" + Fore.LIGHTWHITE_EX + " ] " + Fore.LIGHTRED_EX + https[i])
             https_file.write('\n' + https[i])
             time.sleep(0.1)
     elif(a == "2"):
         for a in range(hlines):
-            print(Fore.LIGHTWHITE_EX + "[ " + Fore.LIGHTGREEN_EX + "Success -> HTTP" + Fore.LIGHTWHITE_EX + " ] " + Fore.LIGHTGREEN_EX + http[a])
+            print(Fore.LIGHTWHITE_EX + "[ " + Fore.LIGHTRED_EX + "Success -> HTTP" + Fore.LIGHTWHITE_EX + " ] " + Fore.LIGHTRED_EX + http[a])
             http_file.write('\n' + http[a])
             time.sleep(0.1)
     elif(a == "3"):
         for b in range(slines):
-            print(Fore.LIGHTWHITE_EX + "[ " + Fore.LIGHTGREEN_EX + "Success -> SOCKS4" + Fore.LIGHTWHITE_EX + " ] " + Fore.LIGHTGREEN_EX + socks4[b])
+            print(Fore.LIGHTWHITE_EX + "[ " + Fore.LIGHTRED_EX + "Success -> SOCKS4" + Fore.LIGHTWHITE_EX + " ] " + Fore.LIGHTRED_EX + socks4[b])
             socks4_file.write('\n' + socks4[b])
             time.sleep(0.1)
     elif(a == "4"):
@@ -135,6 +137,7 @@ if __name__ == "__main__":
     main()
     print("All Proxy's Successfully Generated And Saved To File!")
 
+os.system('pause' if os.name == 'nt' else 'pause')
 
 
 
@@ -143,3 +146,5 @@ if __name__ == "__main__":
 
 
 
+
+print('SUBSCRIBE CODING WITH UDAY')
