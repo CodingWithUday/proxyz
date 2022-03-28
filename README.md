@@ -15,4 +15,4 @@ HOW TO USE:
    `PROXIES WILL BE SAVED IN THE FILE NAME(NOTE - THE FILE NAMES WILL BE THE SAME AS THE NAME OF PROXY TYPE)`
 
 
-EXE VERSION - https://www.mediafire.com/file/7lkum5vk50h6pks/proxyz.zip/file
+EXE VERSION - https://www.mediafire.com/file/xl5i93vhhsm9u02/Proxyz_V2_WIN_EXE.zip/file
